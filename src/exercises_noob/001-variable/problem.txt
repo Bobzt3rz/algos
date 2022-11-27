@@ -1,0 +1,2 @@
+Declare variables
+Declare two variables: an integer named "age", and a string named "name" with corresponding values (your name and age)
